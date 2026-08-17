@@ -86,6 +86,11 @@
       "logo": "logo-openaire.png"
     },
     {
+      "name": "Paradigm Repositories",
+      "url": "https://www.paradigmpublishingservices.com/repositories",
+      "logo": "logo-paradigm-repositories.png"
+    },
+    {
       "name": "Tubitak",
       "url": "https://ulakbim.tubitak.gov.tr",
       "logo": "logo-tubitak.svg"
